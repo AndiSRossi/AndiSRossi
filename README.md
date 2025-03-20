@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andisrossi" alt="andisrossi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/andiizera" target="blank"><img src="https://img.shields.io/twitter/follow/andiizera?logo=twitter&style=for-the-badge" alt="andiizera" /></a> </p>
 
 - 🌱 Atualmente estou cursando ADS **Full-stack**
 
