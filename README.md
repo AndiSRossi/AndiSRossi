@@ -3,12 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andisrossi&label=Profile%20views&color=0e75b6&style=flat" alt="andisrossi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andisrossi" alt="andisrossi" /></a> </p>
-
-
 - 🌱 Atualmente estou cursando ADS **Full-stack**
 
-- 💬 Me pergunte sobre **HTML, CSS, JavaScript, C#, Python, Bootstrap**
+- 💬 Me pergunte sobre **HTML, CSS, JavaScript, C#, Python, Bootstrap e PHP**
 
 - 📫 Você me acha atrávez do e-mail **andersonsrossi@gmail.com**
 
